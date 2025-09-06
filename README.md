@@ -42,4 +42,4 @@ It is designed as a **romantic gift website**, where photos of your loved one ro
 ## ❤️ Personalization
 - Change the **center text** in the HTML:
   ```html
-  <div class="center-text">Love You Dear Dnyana... ❤️</div>
+  <div class="center-text">Love You Dear Name ❤️</div>
